@@ -1,0 +1,13 @@
+Package: loo
+Version: 1.0.0
+Architecture: amd64
+Maintainer: k2 <skrik2@outlook.com>
+Priority: optional
+Section: utils
+Filename: pool/main/l/loo/loo_1.0.0_amd64.deb
+Size: 5861332
+SHA256: e780c09aec4fd61baacbbafb5f9aa4e1acfb7581df6348ab397f3af2e9920b47
+SHA1: 8686cd2953533d2488601f8eb18b3cc6b10fc22f
+MD5sum: 5ca9d949a62b767eaa3eeabec7c7807d
+Description: A DNS Query Tool
+

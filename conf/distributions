@@ -1,0 +1,7 @@
+Origin: yonomesh
+Label: yonomesh
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Yonomesh APT Repository
+SignWith: 6247E2DF5F92196FF038034A0FC5FFAB20E79300

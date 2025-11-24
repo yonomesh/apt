@@ -1,0 +1,5 @@
+Component: main
+Origin: yonomesh
+Label: yonomesh
+Architecture: amd64
+Description: Yonomesh APT Repository

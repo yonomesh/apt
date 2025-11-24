@@ -1,0 +1,19 @@
+Origin: yonomesh
+Label: yonomesh
+Codename: stable
+Date: Mon, 24 Nov 2025 08:07:18 UTC
+Architectures: amd64
+Components: main
+Description: Yonomesh APT Repository
+MD5Sum:
+ 90fac5581e8b22f27d66b7251e8adf7a 370 main/binary-amd64/Packages
+ c89aa4bdf7d90cf3d50d9d0cc87eadf7 298 main/binary-amd64/Packages.gz
+ 6835425d566e90620b6f8ed3ccceef38 106 main/binary-amd64/Release
+SHA1:
+ 74e2e7c551c727d0382d6c05b57f72e6c0884c45 370 main/binary-amd64/Packages
+ 3834239adb71713165c905f46c04a67beec7dd09 298 main/binary-amd64/Packages.gz
+ 5aa24b4e96f32fa12e5bc743303e1729bec68455 106 main/binary-amd64/Release
+SHA256:
+ d53fdf689148709df51d4ce614c2cb94f5913b9323391ea03ec0afef07c2237b 370 main/binary-amd64/Packages
+ c2a93a0d1761e0fda03b1f3d7d61123dca1b5f22a4a22a1aed0b91d999e5b93d 298 main/binary-amd64/Packages.gz
+ 1fff0af1f9ac0de7c289e3df22bf890956d0032ca4c07dcd2deb304c5c54f796 106 main/binary-amd64/Release
